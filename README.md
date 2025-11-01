@@ -92,7 +92,6 @@ python Project-0-0-4.py
 - Toggle email notifications: set `ENABLE_EMAIL_NOTIFICATIONS` to `true`/`false`
 
 ### Screenshots
-- Add screenshots to `docs/` and reference them here, e.g.:
 ```markdown
 ![Dashboard](docs/dashboard.png)
 ```
