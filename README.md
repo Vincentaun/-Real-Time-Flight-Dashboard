@@ -129,5 +129,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Streamlit: https://streamlit.io/
 
 ## Maintainers
-- Your Name (@your-username)
+- Vincent
 - Contributions from the community are appreciated!
