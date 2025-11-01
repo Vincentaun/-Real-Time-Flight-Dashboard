@@ -92,9 +92,10 @@ python Project-0-0-4.py
 - Toggle email notifications: set `ENABLE_EMAIL_NOTIFICATIONS` to `true`/`false`
 
 ### Screenshots
-```markdown
-![Dashboard](docs/dashboard.png)
-```
+
+<p align="center">
+  <img src="docs/dashboard.png" />
+</p>
 
 ## Contributing
 
