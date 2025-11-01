@@ -1,0 +1,5 @@
+# Ignore environment files containing secrets
+.env
+
+# Ignore cache data files if generated locally
+flight_data_cache.csv
